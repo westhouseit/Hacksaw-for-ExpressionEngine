@@ -1,3 +1,5 @@
+Version: 1.0.8
+
 Hacksaw takes your entry's content and whittles it down
 to a more manageable size. It strips the HTML and limits 
 the excerpts by character count, word count or cutoff marker.
